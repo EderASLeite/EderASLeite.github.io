@@ -1,35 +1,52 @@
 body {
   background-color: rgba(42, 61, 56, 0.979);
   text-align: center;
-}
-#foto {
-  border-radius: 70%;
-  width: 500px;
-  border: 10px solid 
-}
-
-.title-gray {
-  color: gray;
-  font-size: 30px;
   font-family: "Alice", serif;
-  
+  margin: 50px;
 }
 
+p{
+  color:rgb(125, 125, 128)
+}
+
+a, li {
+  text-decoration: none;
+  color: rgb(125, 125, 128);
+}
 h1 {
   font-family: "Titan One", cursive;
   font-size: 50px;
   letter-spacing: 4px;
-}
-p {
-  font-family: "Alice", serif;
+  color: rgb(245, 245, 255);
 }
 
+h2 {
+  color: rgb(100, 99, 99);
+}
+#foto {
+  border-radius: 50px;
+  width: 200px;
+  border: 13px solid gray;
+  float: left;
+}
 
-p {
+.title-gray {
+  color: rgb(245, 245, 255);
+  font-size: 30px;
+}
+
+.descricao {
+  float: right;
   font-size: 20px;
+  width: 80%;
 }
 
-a {
-  text-decoration: none;
-  color: black;
+.lista1 {
+  float: right;
+}
+.lista2 {
+  float: left;
+}
+
+.text-title {
 }
