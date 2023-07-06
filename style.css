@@ -1,0 +1,9 @@
+body {
+    /* background: radial-gradient(#80FFDB, #5390D9) */
+    background-image: linear-gradient(to right, #3d3b3f, #47185e, #5e0f5a);
+    
+}
+
+img {
+    border-radius: 50%;
+}
